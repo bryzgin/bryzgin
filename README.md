@@ -11,7 +11,7 @@ Python, R, PostgreSQL, Apache Superset, Git
 ## Портфолио
 **Учебные проекты по курсу "Аналитик данных" от Hexlet**
 
-[Продажи](https://github.com/bryzgin/data-analytics-project-92)
+* [Продажи](https://github.com/bryzgin/data-analytics-project-92) - Анализ отдела продаж, включая анализ работы продавцов и анализ данных о покупателях и покупках
 
 
 ## Резюме
