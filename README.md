@@ -1,16 +1,19 @@
-### Hi there 👋
+## О себе
+Привет! Меня зовут Константин Брызгин. Я Прохожу обучение по профессии "Аналитик данных" в школе программирования Хекслет и учусь на втором курсе магистратуры по направлению "Информационные системы и технологии". Хочу найти работу в IT-сфере в области анализа данных.
 
-<!--
-**bryzgin/bryzgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Стек
+Python, R, PostgreSQL, Apache Superset, Git
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Резюме
+**HeadHunter:** https://ekaterinburg.hh.ru/resume/4d45e725ff0cae05720039ed1f564658507966  
+
+**Hexlet CV:** https://cv.hexlet.io/ru/resumes/3491
+
+## Контакты
+**e-mail:** k.bryzgin@yandex.ru
+
+**telegram:** https://t.me/kbryzgin
