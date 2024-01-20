@@ -12,6 +12,7 @@ Python, R, PostgreSQL, Apache Superset, Git
 **Учебные проекты по курсу "Аналитик данных" от Hexlet**
 
 * [Продажи](https://github.com/bryzgin/data-analytics-project-92) - Анализ отдела продаж, включая анализ работы продавцов и анализ данных о покупателях и покупках
+* [gis](https://nbviewer.org/github/GeospatialProgramming/Geopandas/blob/main/GeoPandas%20and%20Folium/Heatmap.ipynb)
 
 
 ## Резюме
