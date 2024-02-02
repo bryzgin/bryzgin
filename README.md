@@ -24,9 +24,9 @@ Python, R, PostgreSQL, Apache Superset, Git
 
 **telegram:** https://t.me/kbryzgin
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryzgin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryzgin&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryzgin&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryzgin&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryzgin&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryzgin&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryzgin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryzgin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryzgin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryzgin&theme=monokai)
