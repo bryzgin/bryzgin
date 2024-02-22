@@ -10,6 +10,9 @@
   </a>
 </p>
 
+В настоящее время я продолжаю изучать SQL и Python для работы с данными, а также NoSQL базы данных.
+Сейчас читаю [Python для анализа данных][6] от Уэса Маккинни и SQL для анализа данных от Кэти Танимура.
+
 ## Резюме
 
 Подробнее с моим резюме можно ознакомиться на [HeadHunter][3] или [Hexlet CV][4].
@@ -27,3 +30,4 @@
 [3]: https://ekaterinburg.hh.ru/resume/4d45e725ff0cae05720039ed1f564658507966
 [4]: https://cv.hexlet.io/ru/resumes/3491
 [5]: https://github.com/bryzgin/data-analytics-project-96
+[6]: https://wesmckinney.com/book/
