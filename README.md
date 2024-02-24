@@ -28,7 +28,7 @@
 * Когортный анализ - оцениваю метрику Retention.
 
 ### Практики
-* Практикум по R
+* [Практикум по R][7] - изучаю R для статистической обработки данных и визуализации.
 
 
 [1]: https://github.com/bryzgin/sales.git
@@ -37,3 +37,4 @@
 [4]: https://cv.hexlet.io/ru/resumes/3491
 [5]: https://github.com/bryzgin/data-analytics-project-96
 [6]: https://wesmckinney.com/book/
+[7]: https://github.com/bryzgin/r-projects
