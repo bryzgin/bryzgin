@@ -25,7 +25,7 @@
 
 ### Кейсы
 * ABC/XYZ-анализ - классификация товаров по влиянию на прибыль компании.
-* Когортный анализ - оцениваю метрику Retention.
+* [**Retention rate**][8] - оцениваю метрику Retention с помощью когортного анализа.
 
 ### Практики
 * [**Практикум по R**][7] - изучаю R для статистической обработки данных и визуализации.
@@ -38,3 +38,4 @@
 [5]: https://github.com/bryzgin/data-analytics-project-96
 [6]: https://wesmckinney.com/book/
 [7]: https://github.com/bryzgin/r-projects
+[8]: https://github.com/bryzgin/retention-rate/tree/main
