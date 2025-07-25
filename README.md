@@ -8,12 +8,12 @@
 - [Онлайн школа][2] - создание системы сквозной аналитики для маркетологов онлайн-школы, для оценки эффективность рекламных компаний (postgresql, superset)
 
 ### Геоаналитика
-- to do
+- [Агрегация пространственных данных для анализа][5] - агрегация геоданных с использованием шестиугольной системы геопространственного индексирования от Uber (python, pandas, folium, h3)
 
 
 ## CodeKata
 - [K-means][3] - реализация алгоритма машинного обучения K-means для решения задач кластеризации
-- [Практика по pandas][4] - практическая работа по pandas, на примере предобработки [kaggle-датасета][5]
+- [Практика по pandas][4] - практическая работа по pandas с использованием базовых методов библиотеки для предобработки и анализа данных
 - [Зональная статистика][6] - расчет зональной статистики по растровым моделям данных
 
 
@@ -21,5 +21,5 @@
 [2]: https://github.com/bryzgin/online-school
 [3]: https://github.com/bryzgin/kmeans_ml_model
 [4]: https://github.com/bryzgin/pandas_practice
-[5]: https://www.kaggle.com/datasets/cdminix/us-drought-meteorological-data
+[5]: https://github.com/bryzgin/h3_aggregation
 [6]: https://github.com/bryzgin/zonal_stats
