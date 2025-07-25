@@ -8,7 +8,7 @@
 - [Онлайн школа][2] - создание системы сквозной аналитики для маркетологов онлайн-школы, для оценки эффективность рекламных компаний (postgresql, superset)
 
 ### Геоаналитика
-- [Агрегация пространственных данных для анализа][5] - агрегация геоданных с использованием шестиугольной системы геопространственного индексирования от Uber (python, geopandas, folium, h3pandas)
+- [Агрегация пространственных данных для анализа][5] - агрегация геоданных с использованием шестиугольной системы геопространственного индексирования от Uber (python, geopandas, folium, h3pandas), [результат][7]
 
 
 ## CodeKata
@@ -23,3 +23,4 @@
 [4]: https://github.com/bryzgin/pandas_practice
 [5]: https://github.com/bryzgin/h3_aggregation
 [6]: https://github.com/bryzgin/zonal_stats
+[7]: https://bryzgin.github.io/h3_aggregation/
