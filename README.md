@@ -12,8 +12,12 @@
 
 
 ## CodeKata
-- to do
+- [K-means][3] - реализация алгоритма машинного обучения K-means для решения задач кластеризации
+- [Практика по pandas][4] - практическая работа по pandas, на примере предобработки [kaggle-датасета][5]
 
 
 [1]: https://github.com/bryzgin/conversion-dashboard
 [2]: https://github.com/bryzgin/online-school
+[3]: https://github.com/bryzgin/kmeans_ml_model
+[4]: https://github.com/bryzgin/pandas_practice
+[5]: https://www.kaggle.com/datasets/cdminix/us-drought-meteorological-data
