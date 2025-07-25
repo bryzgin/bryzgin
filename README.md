@@ -14,6 +14,7 @@
 ## CodeKata
 - [K-means][3] - реализация алгоритма машинного обучения K-means для решения задач кластеризации
 - [Практика по pandas][4] - практическая работа по pandas, на примере предобработки [kaggle-датасета][5]
+- [Зональная статистика][6] - расчет зональной статистики по растровым моделям данных
 
 
 [1]: https://github.com/bryzgin/conversion-dashboard
@@ -21,3 +22,4 @@
 [3]: https://github.com/bryzgin/kmeans_ml_model
 [4]: https://github.com/bryzgin/pandas_practice
 [5]: https://www.kaggle.com/datasets/cdminix/us-drought-meteorological-data
+[6]: https://github.com/bryzgin/zonal_stats
